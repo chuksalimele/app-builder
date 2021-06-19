@@ -1,2 +1,2 @@
 # app-builder
-A GUI application for bundling GameBaba frontend  
+An application designed for bundling GameBaba frontend  
